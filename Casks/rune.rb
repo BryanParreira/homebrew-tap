@@ -1,6 +1,6 @@
 cask "rune" do
-  version "0.9.1"
-  sha256 "6eb14e3c8956d1bd35f4c656c48b59bfa9552b6889bc9bcd7fd7e924c604be57"
+  version "0.10.0"
+  sha256 "914995e3383a9c36c4be34aa399737936a8d126f4ea54c58bdf2c3b7b80a09e9"
 
   url "https://github.com/BryanParreira/Rune/releases/download/v#{version}/Rune-#{version}.dmg"
   name "Rune"
